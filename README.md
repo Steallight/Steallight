@@ -1,6 +1,11 @@
 ### Hi there 👋
 
+- [] Arbeite an diversen Discord Bots
+- [X] Vorbereiten aufs Studium
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steallight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Steallight/Steallight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
