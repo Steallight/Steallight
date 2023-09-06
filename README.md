@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- [] Arbeite an diversen Discord Bots
-- [X] Vorbereiten aufs Studium
+- Arbeite an diversen Discord Bots
+- Vorbereiten aufs Studium
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=steallight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
