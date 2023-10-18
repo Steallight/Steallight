@@ -3,7 +3,7 @@
 ## **About me** 
 - I´m 20 years old and preparing to study Cyber Security  🎓
 - I´m from Germany 🇩🇪 and live near Stuttgart
-- I'm a Discord Bot Developer at **[Areon Pictures]**
+
 
 ---
 
@@ -13,4 +13,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Steallight&show_icons=true&theme=transparent)
 
 
-[Areon Pictures]:https://www.areonpictures.com/
