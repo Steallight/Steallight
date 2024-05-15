@@ -1,7 +1,7 @@
 ### <div align="center">I'm Luca, a full-stack developer 👨‍💻 mostly working on private projects</div>  
   
 
-- 🔭 I’m currently working on [DiscordWhitelist](https://github.com/Steallight/DiscordWhitelist)  
+- 🔭 I’m currently working on [DiscordWhitelist](https://github.com/Steallight/DiscordWhitelist) and [Jarvis-AI](https://github.com/Steallight/jarvis-ai) 
   
 
 - 🌱 I’m currently learning DevOps and CyberSecurity  
