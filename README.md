@@ -1,10 +1,10 @@
 ### <div align="center">I'm Luca, a full-stack developer 👨‍💻 mostly working on private projects</div>  
   
 
-- 🔭 I’m currently working on [DiscordWhitelist](https://github.com/Steallight/DiscordWhitelist) and [Jarvis-AI](https://github.com/Steallight/jarvis-ai) 
+- 🔭 I’m currently working on multiple private projects. 
   
 
-- 🌱 I’m currently learning DevOps and CyberSecurity  
+- 🌱 I’m currently learning CyberSecurity
   
 
 - ⚡ Fun fact: I use tabs over spaces  
